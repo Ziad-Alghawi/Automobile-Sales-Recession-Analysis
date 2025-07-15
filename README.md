@@ -1,4 +1,4 @@
-# 🚗 **Automobile Sales During Recessions**  
+#  **Automobile Sales During Recessions**  
 
 ## 📌 **Project Goal**  
 Analyzed how economic recessions (1980–2020) impacted car sales using Python.  
