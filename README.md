@@ -1,7 +1,7 @@
 # 🚗 Automobile Sales During Economic Recessions  
 *Combining Data Visualization and Interactive Dashboards for Impact Analysis*  
 
-![Dashboard Preview](assets/fine_pict_3.png)  
+![Dashboard Preview](assets/YearlyReportgraphs.png)  
 
 ---
 
