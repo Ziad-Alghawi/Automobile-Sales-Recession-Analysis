@@ -2,6 +2,7 @@
 *Combining Data Visualization and Interactive Dashboards for Impact Analysis*  
 
 ![Dashboard Preview](assets/YearlyReportgraphs.png)  
+![Dashboard Preview](assets/RecessionReportgraphs.png) 
 
 ---
 
