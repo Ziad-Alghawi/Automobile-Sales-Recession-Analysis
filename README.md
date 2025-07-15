@@ -41,8 +41,7 @@ This project **analyzed 40+ years of automobile sales data** to uncover how econ
 - **Data**: Synthetic dataset (1980–2023) with `GDP`, `Unemployment_Rate`, etc.  
 
 
-## 🛠️ Tech Stack  
-**✨ Implementation Details:**  
+ **✨ Implementation Details:**  
 - **Data Pipeline:** Automated cleaning with `Pandas` (handled 12% missing values in `Consumer_Confidence`)  
 - **Dashboard Architecture:**  
   ```mermaid
